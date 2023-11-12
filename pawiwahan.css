@@ -50,19 +50,19 @@ img.card-img-top {
   margin-top: 20px;
 }
 #protokol {
-  background-image: url(../../assets/images/ornam/Asset5.png);
+  background-image: url(https://raw.githack.com/rajadiraja12/nikah/main/Asset5.png);
   background-size: initial;
   background-repeat: no-repeat;
   background-position: top 3px center;
 }
 #galeri,#lokasi,#pesan,#gift{
-  background-image: url(../../assets/images/ornam/Asset5.png),url(../../assets/images/ornam/Asset5a.png);
+  background-image: url(https://raw.githack.com/rajadiraja12/nikah/main/Asset5.png),url(https://raw.githack.com/rajadiraja12/nikah/main/Asset5a.png);
   background-size: initial;
   background-repeat: no-repeat,no-repeat;
   background-position: top 1px center, bottom 0px center;
 }
 #about{
-  background-image: url(../../assets/images/ornam/Asset5.png),url(../../assets/images/ornam/Asset9a.png);
+  background-image: url(https://raw.githack.com/rajadiraja12/nikah/main/Asset5.png),url(https://raw.githack.com/rajadiraja12/nikah/main/Asset9a.png);
   background-position: top 1px center, bottom 1px center;
   background-repeat: no-repeat, no-repeat;
   background-size: initial;
@@ -72,7 +72,7 @@ img.card-img-top {
 }
 #calender{
   background-size: initial;
-  background-image: url(../../assets/images/ornam/Asset5a.png);
+  background-image: url(https://raw.githack.com/rajadiraja12/nikah/main/Asset5a.png);
   background-repeat: no-repeat;
   padding-top: 25px;
   background-position: bottom 3px center;
@@ -88,19 +88,19 @@ img.card-img-top {
 }
 h1.display-12.text-center {
   padding: 4rem 0;
-  background-image: url(../../assets/images/ornam/Asset7a.png);
+  background-image: url(https://raw.githack.com/rajadiraja12/nikah/main/Asset7a.png);
   background-repeat: no-repeat;
   background-position: top 15px center;
   font-size: 1.5em;
 }
 #mpl{
-  background-image: url(../../assets/images/ornam/Asset3.png),url(../../assets/images/ornam/Asset2.png);
+  background-image: url(https://raw.githack.com/rajadiraja12/nikah/main/Asset3.png),url(https://raw.githack.com/rajadiraja12/nikah/main/Asset2.png);
   background-position: top 1px center, bottom 1px center;
   background-repeat: no-repeat, no-repeat;
   background-size: initial;
 }
 #mpw{
-  background-image: url(../../assets/images/ornam/Asset3.png),url(../../assets/images/ornam/Asset2.png);
+  background-image: url(https://raw.githack.com/rajadiraja12/nikah/main/Asset3.png),url(https://raw.githack.com/rajadiraja12/nikah/main/Asset2.png);
   background-position: top 1px center, bottom 1px center;
   background-repeat: no-repeat, no-repeat;
   background-size: initial;
